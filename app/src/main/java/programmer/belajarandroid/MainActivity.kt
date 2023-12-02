@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             buttonTextView.text = resources.getString(R.string.buttonTextView, name)
 
             resources.getStringArray(R.array.names).forEach {
-                Log.i("PZN",it)
+                Log.i("PZN", it)
             }
         }
     }

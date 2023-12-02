@@ -3,8 +3,10 @@
     <string name="nameEditText">Nama Mahasiswa</string>
     <string name="buttonButton">Button</string>
     <string name="buttonTextView">Halo %1$s</string>
-        <item>Alfi</item>
-        <item>Anisa</item>
-        <item>Delia</item>
+    <string-array name="names">
+        <item>alfi</item>
+        <item>siregar</item>
+        <item>sovia</item>
     </string-array>
+
 </resources>
